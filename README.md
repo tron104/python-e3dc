@@ -64,7 +64,7 @@ For any other configurations, there is an optional `configuration` object that c
 
 ## Usage 
 
-### Local Connection for E3DC
+### Local Connection for E3DC (2)
 
 An example script using the library is the following:
 
